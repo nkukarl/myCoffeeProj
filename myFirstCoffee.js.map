@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "myFirstCoffee.js",
+  "sourceRoot": "",
+  "sources": [
+    "myFirstCoffee.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,IAAA,GAAO,CAAC,CAAD,EAAI,CAAJ,EAAO,CAAP,EAAU,CAAV,EAAa,CAAb;;EACP,GAAA,GAAM;;;AAAC;WAAA,sCAAA;;qBAAA,CAAA,GAAI;AAAJ;;QAAD;;;EAEN,IAAA,GAAO;;EACP,IAAG,IAAH;IACE,CAAA,GAAI,EADN;GAAA,MAAA;IAGE,CAAA,GAAI,EAHN;;AAJA"
+}
